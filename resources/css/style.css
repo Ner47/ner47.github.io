@@ -109,3 +109,19 @@ article {
     border-radius: 20px;
     background: linear-gradient(to bottom, #1b1b1b, #000000);
 }
+
+#skills img {
+    width: 100px;
+    filter: invert(100%);
+}
+
+#skills .box{
+    justify-content: space-around;
+}
+
+footer {
+    position: relative;
+    top: 70px;
+    padding: 20px;
+    text-align: center;
+}
